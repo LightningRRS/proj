@@ -1,6 +1,5 @@
 
 .carousel__img{
-    margin: 0 auto;
-    width: auto;
-    
+    margin-bottom: 3rem;
+    max-height: 400px;
 }
